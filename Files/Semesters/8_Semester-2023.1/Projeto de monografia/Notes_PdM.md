@@ -1,6 +1,6 @@
 # Projeto de monografia
 
-## Aula 1 - 10/03/2023 - 10h24 ~
+## Aula 1 - 10/03/2023 - [10h24, ]
 
 ### Off-Topic e falas
 
@@ -177,3 +177,93 @@ Guilherme
 Matheus Dias
 Faltou: Schulz
 -->
+
+## Aula 2 - 17/03/2023 - [10h40, ...] - cheguei atrasado
+
+### Offtopic e falas
+
+- Maria que era da sala dele era maternal
+- "Clarisse Sousa... ela é famosíssima no mundo", "Já fiz matéria com ela"
+
+Contagem de Jobs: 1
+
+Corrigir:
+
+Método Científico - Refutação: esta -> Está
+Método Científico - Pesquisa: de acordo diferentes -> de acordo com diferentes critérios
+
+- Aumentar o conhecimento humano de como o mundo funciona
+
+### Slide 2 (não sei o nome) (2)
+
+#### Fases do método científico (2)
+
+1. Observação
+2. Problema
+3. Colheita de dados
+   1. Leituras
+   2. Discussões
+   3. Entrevistas
+   4. Observações
+4. Hipótese
+5. Experiência
+6. Observação
+7. A hipótese estaria correta?
+8. Um novo problema?
+   1. Retorno à colheita de dados
+
+#### Método Científico (2)
+
+- Correntes Filosóficas predominantes
+  - Empirismo
+    - "Importância das evidências observadas"
+    - Falta de empirismo -> conclusões erradas
+    - Computação
+      - Conclusões objetivas obtidas empiricamente  
+  - Objetividade
+    - Pesquisas, do mesmo caso, as mesmas conclusões
+    - Opiniões são apenas subjetivas
+    - Computação nem sempre aplica o princípio de autoridade
+      - Poucas citações de autoridades clásssicas
+      - Trabalho objetivo, empiricamente avaliado
+  - Indução
+    - Situação que se sustenta em todos os casos
+    - Em computação
+      - Indução matemática
+        - Soft computing
+          - Treino de redes neurais, SVM, Forest Random, etc.
+        - Métodos Formais
+      - Indução estrutural
+        - Generalizações e especializações
+  - Refutação
+    - Princípio de contradição
+      - "Qualquer teoria sempre está aberta para ser invalidada"
+    - Um caso de estudo (pesquisa exploratória) não prova uma regra geral
+      - ...
+  - Pesquisa
+    - Diversas atividades humanas
+      - Pesquisa eleitoral
+      - Pesquisa científica
+        - Aumentar o conhecimento humano de como o mundo funciona
+    - No contexto científico de acordo com diferentes critérios por sua natureza, objetivo, procedimentos técnicos
+      - Quanto a natureza
+        - Trabalho original
+          - Busca apresentar conhecimento novo através de observações e teorias
+          - Teoria relevante traz implicações práticas na sua realização e na forma como se entendem processos e sistemas
+        - Resumo de assunto
+          - Busca sintetizar uma área conhecida mostrando sua evolução histórica e estado da arte:
+            - Estado da arte: é qual o conjunto de coisas mais recentes relacionados à uma determinada área de atuação, também relatando alguns eventos marcantes do passado recente.
+          - Trabalho de graduação visa desenvolver um conhecimento sólido da área e seu desenvolvimento, descrevendo suas causas e efeitos, apresentando uma estrutura coerente com sua evolução
+      - Quanto a objetivo
+        - ...
+
+<!-- Lista de chamada
+Daniel Brito
+Guilherme
+Matheus Dias
+Ralf
+Leonardo
+João Dias
+ -->
+
+## Aula 3 - 24/03/2023 - [..., ...] - Próximo
